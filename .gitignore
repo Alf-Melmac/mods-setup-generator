@@ -1,0 +1,18 @@
+# Project exclude paths
+/target/
+!**/src/main/**
+!**/src/test/**
+
+### IntelliJ IDEA ###
+*.iws
+*.iml
+*.ipr
+
+### Maven ###
+.mvn
+mvnw
+mvnw.cmd
+
+.dcignore
+
+/src/main/resources/mods/
