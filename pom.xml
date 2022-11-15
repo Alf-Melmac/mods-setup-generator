@@ -6,7 +6,7 @@
 
 	<groupId>de.webalf</groupId>
 	<artifactId>mods-setup-generator</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.0</version>
 	<description>Generates variable definition for mods from csv files</description>
 
 	<properties>
