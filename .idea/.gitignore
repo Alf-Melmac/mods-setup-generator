@@ -12,5 +12,6 @@
 sonarlint-state.xml
 sonarlint/
 
-#Discord Integration
+#Plugins
 discord.xml
+jpa-buddy.xml
